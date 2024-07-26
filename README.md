@@ -4,9 +4,8 @@ Welcome to the Phishing Awareness Training repository. This repository contains 
 
 ## Training Material
 
-The main training material is provided in the form of a PDF document:
+The main training material is provided in the form of a PDF document.
 
-[Phishing Awareness Training PDF](path/to/your/phishing_awareness_training.pdf)
 
 ## Contents
 
